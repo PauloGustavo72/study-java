@@ -1,7 +1,7 @@
 ## Date
 
 ### UTC
-![Captura de Tela 2023-01-24 às 19.45.12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f2efb94-9f96-411b-b999-cd9528b2825b/Captura_de_Tela_2023-01-24_as_19.45.12.png)
+![Captura de Tela 2023-01-25 às 19 19 34](https://user-images.githubusercontent.com/84418438/214704648-58fdfdf6-3ec0-476a-bf63-529bfa722f43.png)
 
 UTC is the world measure. Like we saw on the image above, if the country is on the left where we are, then we must subtract the hours.
 If the country is on the right of us, we must add hours.
