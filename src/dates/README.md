@@ -55,3 +55,6 @@ System.out.println(simple.format(result));
 //01 Jan 1970 00:00:03:010 +0000
 ```
 
+
+## References
+* [Difference between old date and java 8](https://www.baeldung.com/migrating-to-java-8-date-time-api)
